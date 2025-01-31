@@ -13,4 +13,3 @@ Each section follows a standardized format:
 5. References
 
 Use this repository as a guide for implementing and understanding modern testing frameworks.
-
